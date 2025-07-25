@@ -1,0 +1,7 @@
+#!/bin/bash
+# Clear TTY1 to prevent getty messages from interfering with welcome screen
+if [[ $(tty) == "/dev/tty1" ]]; then
+    clear
+    # Wait a moment for any pending getty messages to clear
+    sleep 1
+fi

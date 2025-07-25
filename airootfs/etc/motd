@@ -1,0 +1,19 @@
+ ██████╗ ██████╗ ██████╗ ██████╗ ██╗   ██╗ ██████╗ 
+██╔════╝██╔═══██╗██╔══██╗██╔══██╗██║   ██║██╔═══██╗
+██║     ██║   ██║██║  ██║██║  ██║██║   ██║██║   ██║
+██║     ██║   ██║██║  ██║██║  ██║██║   ██║██║   ██║
+╚██████╗╚██████╔╝██████╔╝██████╔╝╚██████╔╝╚██████╔╝
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝ 
+
+        Instalador do sistema oficial da Codduo
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Para instalar o CODDUO_OS execute o comando:
+sudo /root/install.sh
+
+Para conexão Wi-Fi, use o utilitário iwctl.
+Para conexão ethernet, o DHCP funcionará automaticamente,
+
+Acesse o website para mais informações:
+www.codduo.vercel.app
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,13 @@
+[Unit]
+Description=CODDUO OS Welcome Message Setup
+After=sysinit.target
+Before=getty@tty1.service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'echo -e "\\n\\033[2J\\033[H" > /dev/tty1'
+ExecStart=/bin/cat /etc/motd > /dev/tty1
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target
