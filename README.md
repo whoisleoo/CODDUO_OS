@@ -2,7 +2,6 @@
 
 ![CODDUO OS](https://img.shields.io/badge/CODDUO%20OS-Sistema%20Minimalista-purple)
 ![Arch Linux](https://img.shields.io/badge/Base-Arch%20Linux-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Descrição do projeto
 
