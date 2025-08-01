@@ -354,6 +354,7 @@ install_packages() {
         htop \
         sudo \
         python \
+        python-pip \
         npm \
         firefox \
         grub \
