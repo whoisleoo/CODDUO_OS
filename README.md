@@ -5,7 +5,7 @@
 
 ## 📋 Descrição do projeto
 
-*CODDUO_OS* é um sistema operacional baseado em Arch Linux cuja o principal objetivo é rodar aplicações sem o uso de window manager e 
+*CODDUO_OS* é um sistema operacional baseado em Arch Linux cuja o principal objetivo é rodar aplicações sem o uso de window manager
 
 ##  Características
 
